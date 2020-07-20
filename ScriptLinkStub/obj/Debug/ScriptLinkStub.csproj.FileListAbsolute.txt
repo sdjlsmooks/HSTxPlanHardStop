@@ -1,0 +1,122 @@
+C:\Users\jsatterley\Documents\Visual Studio 2017\Projects\ScriptLinkStub\ScriptLinkStub\obj\Debug\ScriptLinkStub.csprojResolveAssemblyReference.cache
+C:\Users\jsatterley\Documents\Visual Studio 2017\Projects\ScriptLinkStub\ScriptLinkStub\obj\Debug\ScriptLinkStub.csproj.CoreCompileInputs.cache
+C:\Users\jsatterley\Documents\Visual Studio 2017\Projects\ScriptLinkStub\ScriptLinkStub\bin\ScriptLinkStub.dll.config
+C:\Users\jsatterley\Documents\Visual Studio 2017\Projects\ScriptLinkStub\ScriptLinkStub\bin\ScriptLinkStub.dll
+C:\Users\jsatterley\Documents\Visual Studio 2017\Projects\ScriptLinkStub\ScriptLinkStub\bin\ScriptLinkStub.pdb
+C:\Users\jsatterley\Documents\Visual Studio 2017\Projects\ScriptLinkStub\ScriptLinkStub\bin\roslyn\csc.exe
+C:\Users\jsatterley\Documents\Visual Studio 2017\Projects\ScriptLinkStub\ScriptLinkStub\bin\roslyn\csc.exe.config
+C:\Users\jsatterley\Documents\Visual Studio 2017\Projects\ScriptLinkStub\ScriptLinkStub\bin\roslyn\csc.rsp
+C:\Users\jsatterley\Documents\Visual Studio 2017\Projects\ScriptLinkStub\ScriptLinkStub\bin\roslyn\csi.exe
+C:\Users\jsatterley\Documents\Visual Studio 2017\Projects\ScriptLinkStub\ScriptLinkStub\bin\roslyn\csi.exe.config
+C:\Users\jsatterley\Documents\Visual Studio 2017\Projects\ScriptLinkStub\ScriptLinkStub\bin\roslyn\csi.rsp
+C:\Users\jsatterley\Documents\Visual Studio 2017\Projects\ScriptLinkStub\ScriptLinkStub\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\jsatterley\Documents\Visual Studio 2017\Projects\ScriptLinkStub\ScriptLinkStub\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jsatterley\Documents\Visual Studio 2017\Projects\ScriptLinkStub\ScriptLinkStub\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\jsatterley\Documents\Visual Studio 2017\Projects\ScriptLinkStub\ScriptLinkStub\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\jsatterley\Documents\Visual Studio 2017\Projects\ScriptLinkStub\ScriptLinkStub\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\jsatterley\Documents\Visual Studio 2017\Projects\ScriptLinkStub\ScriptLinkStub\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\jsatterley\Documents\Visual Studio 2017\Projects\ScriptLinkStub\ScriptLinkStub\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\jsatterley\Documents\Visual Studio 2017\Projects\ScriptLinkStub\ScriptLinkStub\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\jsatterley\Documents\Visual Studio 2017\Projects\ScriptLinkStub\ScriptLinkStub\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\jsatterley\Documents\Visual Studio 2017\Projects\ScriptLinkStub\ScriptLinkStub\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\jsatterley\Documents\Visual Studio 2017\Projects\ScriptLinkStub\ScriptLinkStub\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\jsatterley\Documents\Visual Studio 2017\Projects\ScriptLinkStub\ScriptLinkStub\bin\roslyn\System.AppContext.dll
+C:\Users\jsatterley\Documents\Visual Studio 2017\Projects\ScriptLinkStub\ScriptLinkStub\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\jsatterley\Documents\Visual Studio 2017\Projects\ScriptLinkStub\ScriptLinkStub\bin\roslyn\System.Console.dll
+C:\Users\jsatterley\Documents\Visual Studio 2017\Projects\ScriptLinkStub\ScriptLinkStub\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\jsatterley\Documents\Visual Studio 2017\Projects\ScriptLinkStub\ScriptLinkStub\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\jsatterley\Documents\Visual Studio 2017\Projects\ScriptLinkStub\ScriptLinkStub\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\jsatterley\Documents\Visual Studio 2017\Projects\ScriptLinkStub\ScriptLinkStub\bin\roslyn\System.IO.Compression.dll
+C:\Users\jsatterley\Documents\Visual Studio 2017\Projects\ScriptLinkStub\ScriptLinkStub\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\jsatterley\Documents\Visual Studio 2017\Projects\ScriptLinkStub\ScriptLinkStub\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\jsatterley\Documents\Visual Studio 2017\Projects\ScriptLinkStub\ScriptLinkStub\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\jsatterley\Documents\Visual Studio 2017\Projects\ScriptLinkStub\ScriptLinkStub\bin\roslyn\System.IO.Pipes.dll
+C:\Users\jsatterley\Documents\Visual Studio 2017\Projects\ScriptLinkStub\ScriptLinkStub\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\jsatterley\Documents\Visual Studio 2017\Projects\ScriptLinkStub\ScriptLinkStub\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\jsatterley\Documents\Visual Studio 2017\Projects\ScriptLinkStub\ScriptLinkStub\bin\roslyn\System.Security.Claims.dll
+C:\Users\jsatterley\Documents\Visual Studio 2017\Projects\ScriptLinkStub\ScriptLinkStub\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\jsatterley\Documents\Visual Studio 2017\Projects\ScriptLinkStub\ScriptLinkStub\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\jsatterley\Documents\Visual Studio 2017\Projects\ScriptLinkStub\ScriptLinkStub\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\jsatterley\Documents\Visual Studio 2017\Projects\ScriptLinkStub\ScriptLinkStub\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\jsatterley\Documents\Visual Studio 2017\Projects\ScriptLinkStub\ScriptLinkStub\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\jsatterley\Documents\Visual Studio 2017\Projects\ScriptLinkStub\ScriptLinkStub\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\jsatterley\Documents\Visual Studio 2017\Projects\ScriptLinkStub\ScriptLinkStub\bin\roslyn\System.Threading.Thread.dll
+C:\Users\jsatterley\Documents\Visual Studio 2017\Projects\ScriptLinkStub\ScriptLinkStub\bin\roslyn\System.ValueTuple.dll
+C:\Users\jsatterley\Documents\Visual Studio 2017\Projects\ScriptLinkStub\ScriptLinkStub\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\jsatterley\Documents\Visual Studio 2017\Projects\ScriptLinkStub\ScriptLinkStub\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\jsatterley\Documents\Visual Studio 2017\Projects\ScriptLinkStub\ScriptLinkStub\bin\roslyn\System.Xml.XPath.dll
+C:\Users\jsatterley\Documents\Visual Studio 2017\Projects\ScriptLinkStub\ScriptLinkStub\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\jsatterley\Documents\Visual Studio 2017\Projects\ScriptLinkStub\ScriptLinkStub\bin\roslyn\vbc.exe
+C:\Users\jsatterley\Documents\Visual Studio 2017\Projects\ScriptLinkStub\ScriptLinkStub\bin\roslyn\vbc.exe.config
+C:\Users\jsatterley\Documents\Visual Studio 2017\Projects\ScriptLinkStub\ScriptLinkStub\bin\roslyn\vbc.rsp
+C:\Users\jsatterley\Documents\Visual Studio 2017\Projects\ScriptLinkStub\ScriptLinkStub\bin\roslyn\VBCSCompiler.exe
+C:\Users\jsatterley\Documents\Visual Studio 2017\Projects\ScriptLinkStub\ScriptLinkStub\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\jsatterley\Documents\Visual Studio 2017\Projects\ScriptLinkStub\ScriptLinkStub\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jsatterley\Documents\Visual Studio 2017\Projects\ScriptLinkStub\ScriptLinkStub\bin\NTST.ScriptLinkService.Objects.dll
+C:\Users\jsatterley\Documents\Visual Studio 2017\Projects\ScriptLinkStub\ScriptLinkStub\bin\NTST.ScriptLinkService.Objects.pdb
+C:\Users\jsatterley\Documents\Visual Studio 2017\Projects\ScriptLinkStub\ScriptLinkStub\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\jsatterley\Documents\Visual Studio 2017\Projects\ScriptLinkStub\ScriptLinkStub\obj\Debug\ScriptLinkStub.csproj.CopyComplete
+C:\Users\jsatterley\Documents\Visual Studio 2017\Projects\ScriptLinkStub\ScriptLinkStub\obj\Debug\ScriptLinkStub.dll
+C:\Users\jsatterley\Documents\Visual Studio 2017\Projects\ScriptLinkStub\ScriptLinkStub\obj\Debug\ScriptLinkStub.pdb
+C:\Users\jsatterley\Documents\Visual Studio 2017\Projects\ScriptLinkStub\ScriptLinkStub\bin\NTST.ScriptLinkService.Objects.xml
+C:\Users\jsatterley\Desktop\ScriptLinkStub\ScriptLinkStub\bin\ScriptLinkStub.dll.config
+C:\Users\jsatterley\Desktop\ScriptLinkStub\ScriptLinkStub\bin\ScriptLinkStub.dll
+C:\Users\jsatterley\Desktop\ScriptLinkStub\ScriptLinkStub\bin\ScriptLinkStub.pdb
+C:\Users\jsatterley\Desktop\ScriptLinkStub\ScriptLinkStub\bin\roslyn\csc.exe
+C:\Users\jsatterley\Desktop\ScriptLinkStub\ScriptLinkStub\bin\roslyn\csc.exe.config
+C:\Users\jsatterley\Desktop\ScriptLinkStub\ScriptLinkStub\bin\roslyn\csc.rsp
+C:\Users\jsatterley\Desktop\ScriptLinkStub\ScriptLinkStub\bin\roslyn\csi.exe
+C:\Users\jsatterley\Desktop\ScriptLinkStub\ScriptLinkStub\bin\roslyn\csi.exe.config
+C:\Users\jsatterley\Desktop\ScriptLinkStub\ScriptLinkStub\bin\roslyn\csi.rsp
+C:\Users\jsatterley\Desktop\ScriptLinkStub\ScriptLinkStub\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\jsatterley\Desktop\ScriptLinkStub\ScriptLinkStub\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jsatterley\Desktop\ScriptLinkStub\ScriptLinkStub\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\jsatterley\Desktop\ScriptLinkStub\ScriptLinkStub\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\jsatterley\Desktop\ScriptLinkStub\ScriptLinkStub\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\jsatterley\Desktop\ScriptLinkStub\ScriptLinkStub\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\jsatterley\Desktop\ScriptLinkStub\ScriptLinkStub\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\jsatterley\Desktop\ScriptLinkStub\ScriptLinkStub\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\jsatterley\Desktop\ScriptLinkStub\ScriptLinkStub\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\jsatterley\Desktop\ScriptLinkStub\ScriptLinkStub\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\jsatterley\Desktop\ScriptLinkStub\ScriptLinkStub\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\jsatterley\Desktop\ScriptLinkStub\ScriptLinkStub\bin\roslyn\System.AppContext.dll
+C:\Users\jsatterley\Desktop\ScriptLinkStub\ScriptLinkStub\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\jsatterley\Desktop\ScriptLinkStub\ScriptLinkStub\bin\roslyn\System.Console.dll
+C:\Users\jsatterley\Desktop\ScriptLinkStub\ScriptLinkStub\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\jsatterley\Desktop\ScriptLinkStub\ScriptLinkStub\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\jsatterley\Desktop\ScriptLinkStub\ScriptLinkStub\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\jsatterley\Desktop\ScriptLinkStub\ScriptLinkStub\bin\roslyn\System.IO.Compression.dll
+C:\Users\jsatterley\Desktop\ScriptLinkStub\ScriptLinkStub\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\jsatterley\Desktop\ScriptLinkStub\ScriptLinkStub\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\jsatterley\Desktop\ScriptLinkStub\ScriptLinkStub\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\jsatterley\Desktop\ScriptLinkStub\ScriptLinkStub\bin\roslyn\System.IO.Pipes.dll
+C:\Users\jsatterley\Desktop\ScriptLinkStub\ScriptLinkStub\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\jsatterley\Desktop\ScriptLinkStub\ScriptLinkStub\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\jsatterley\Desktop\ScriptLinkStub\ScriptLinkStub\bin\roslyn\System.Security.Claims.dll
+C:\Users\jsatterley\Desktop\ScriptLinkStub\ScriptLinkStub\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\jsatterley\Desktop\ScriptLinkStub\ScriptLinkStub\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\jsatterley\Desktop\ScriptLinkStub\ScriptLinkStub\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\jsatterley\Desktop\ScriptLinkStub\ScriptLinkStub\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\jsatterley\Desktop\ScriptLinkStub\ScriptLinkStub\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\jsatterley\Desktop\ScriptLinkStub\ScriptLinkStub\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\jsatterley\Desktop\ScriptLinkStub\ScriptLinkStub\bin\roslyn\System.Threading.Thread.dll
+C:\Users\jsatterley\Desktop\ScriptLinkStub\ScriptLinkStub\bin\roslyn\System.ValueTuple.dll
+C:\Users\jsatterley\Desktop\ScriptLinkStub\ScriptLinkStub\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\jsatterley\Desktop\ScriptLinkStub\ScriptLinkStub\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\jsatterley\Desktop\ScriptLinkStub\ScriptLinkStub\bin\roslyn\System.Xml.XPath.dll
+C:\Users\jsatterley\Desktop\ScriptLinkStub\ScriptLinkStub\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\jsatterley\Desktop\ScriptLinkStub\ScriptLinkStub\bin\roslyn\vbc.exe
+C:\Users\jsatterley\Desktop\ScriptLinkStub\ScriptLinkStub\bin\roslyn\vbc.exe.config
+C:\Users\jsatterley\Desktop\ScriptLinkStub\ScriptLinkStub\bin\roslyn\vbc.rsp
+C:\Users\jsatterley\Desktop\ScriptLinkStub\ScriptLinkStub\bin\roslyn\VBCSCompiler.exe
+C:\Users\jsatterley\Desktop\ScriptLinkStub\ScriptLinkStub\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\jsatterley\Desktop\ScriptLinkStub\ScriptLinkStub\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jsatterley\Desktop\ScriptLinkStub\ScriptLinkStub\bin\NTST.ScriptLinkService.Objects.dll
+C:\Users\jsatterley\Desktop\ScriptLinkStub\ScriptLinkStub\bin\NTST.ScriptLinkService.Objects.pdb
+C:\Users\jsatterley\Desktop\ScriptLinkStub\ScriptLinkStub\bin\NTST.ScriptLinkService.Objects.xml
+C:\Users\jsatterley\Desktop\ScriptLinkStub\ScriptLinkStub\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\jsatterley\Desktop\ScriptLinkStub\ScriptLinkStub\obj\Debug\ScriptLinkStub.csprojAssemblyReference.cache
+C:\Users\jsatterley\Desktop\ScriptLinkStub\ScriptLinkStub\obj\Debug\ScriptLinkStub.csproj.CoreCompileInputs.cache
+C:\Users\jsatterley\Desktop\ScriptLinkStub\ScriptLinkStub\obj\Debug\ScriptLinkStub.csproj.CopyComplete
+C:\Users\jsatterley\Desktop\ScriptLinkStub\ScriptLinkStub\obj\Debug\ScriptLinkStub.dll
+C:\Users\jsatterley\Desktop\ScriptLinkStub\ScriptLinkStub\obj\Debug\ScriptLinkStub.pdb

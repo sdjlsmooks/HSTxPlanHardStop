@@ -1,0 +1,10 @@
+H:\AvatarMigrationProject\TxPlanHardStop\NTST.ScriptLinkService.Objects\bin\Release\NTST.ScriptLinkService.Objects.dll
+H:\AvatarMigrationProject\TxPlanHardStop\NTST.ScriptLinkService.Objects\bin\Release\NTST.ScriptLinkService.Objects.pdb
+H:\AvatarMigrationProject\TxPlanHardStop\NTST.ScriptLinkService.Objects\bin\Release\NTST.ScriptLinkService.Objects.xml
+H:\AvatarMigrationProject\TxPlanHardStop\NTST.ScriptLinkService.Objects\obj\Release\NTST.ScriptLinkService.Objects.vbprojAssemblyReference.cache
+H:\AvatarMigrationProject\TxPlanHardStop\NTST.ScriptLinkService.Objects\obj\Release\NTST.ScriptLinkService.Objects.Resources.resources
+H:\AvatarMigrationProject\TxPlanHardStop\NTST.ScriptLinkService.Objects\obj\Release\NTST.ScriptLinkService.Objects.vbproj.GenerateResource.cache
+H:\AvatarMigrationProject\TxPlanHardStop\NTST.ScriptLinkService.Objects\obj\Release\NTST.ScriptLinkService.Objects.vbproj.CoreCompileInputs.cache
+H:\AvatarMigrationProject\TxPlanHardStop\NTST.ScriptLinkService.Objects\obj\Release\NTST.ScriptLinkService.Objects.dll
+H:\AvatarMigrationProject\TxPlanHardStop\NTST.ScriptLinkService.Objects\obj\Release\NTST.ScriptLinkService.Objects.xml
+H:\AvatarMigrationProject\TxPlanHardStop\NTST.ScriptLinkService.Objects\obj\Release\NTST.ScriptLinkService.Objects.pdb

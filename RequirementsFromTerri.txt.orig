@@ -1,0 +1,17 @@
+Hard stop would occur on select "Type of Service"
+  At that point, look at treatment plan end date.  
+
+  if most recent treatment plan.end date < current date
+      hard stop
+
+  if most recent treatment plan.end_date >= date_of_service
+     if (treatment plan status != final)
+           hard stop
+
+OR
+   
+   if treatment plan end date >= date_of_service  
+         hard stop
+ 
+
+Only for specific services (get from Matt, probably in the SQL code)

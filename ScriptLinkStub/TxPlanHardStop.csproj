@@ -81,15 +81,16 @@
     <Content Include="Nlog.config" />
     <Content Include="libman.json" />
     <Content Include="AddDSN.ps1" />
+    <Content Include="TxPlanHardStopService.json" />
     <None Include="Dockerfile" />
     <None Include=".dockerignore">
       <DependentUpon>Dockerfile</DependentUpon>
     </None>
-    <Content Include="TxPlanHardStopService.json" />
     <None Include="packages.config" />
     <None Include="Properties\PublishProfiles\PublishToLocalTxPlanHardStop.pubxml" />
     <None Include="Properties\PublishProfiles\PublishToTestAWS.pubxml" />
     <None Include="Properties\PublishProfiles\PublishTxPlanToOnPremTest.pubxml" />
+    <None Include="Properties\PublishProfiles\registry.hub.docker.com_sdjldocker.pubxml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

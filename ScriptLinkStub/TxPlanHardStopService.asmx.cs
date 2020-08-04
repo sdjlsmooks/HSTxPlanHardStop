@@ -173,6 +173,7 @@ namespace TxPlanHardStop
                                         {
                                             returnObject.ErrorCode = 3;
                                             returnObject.ErrorMesg = "Invalid Date Formate: Date Of Service";
+                                            log.Debug("SDJL Exception Caught: " + e.StackTrace());
                                         }
                                         break;
 

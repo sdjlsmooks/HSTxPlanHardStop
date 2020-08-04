@@ -9,7 +9,7 @@
     <IISExpressUseClassicPipelineMode />
     <UseGlobalApplicationHostFile />
     <LastActiveSolutionConfig>Release|Any CPU</LastActiveSolutionConfig>
-    <NameOfLastUsedPublishProfile>PublishTxPlanToOnPremTest</NameOfLastUsedPublishProfile>
+    <NameOfLastUsedPublishProfile>registry.hub.docker.com_sdjldocker</NameOfLastUsedPublishProfile>
     <ActiveDebugTarget>ContainerToolsProjectDebugExtension</ActiveDebugTarget>
   </PropertyGroup>
   <ProjectExtensions>
